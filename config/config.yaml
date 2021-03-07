@@ -18,7 +18,7 @@ owner_discord: ''
 ##################################################
 
 # Telegram token
-token_telegram: ''
+token_telegram: '1609492873:AAFEm4QYkh8Pu708K4ZDgiV-QOMzKmq-UB0'
 
 # Message
 greeting_message: "Hi! welcome to indodax bot!"
